@@ -1,0 +1,4 @@
+1) http://pythonprogramming.net/dashboard/#tab_dataanalysis
+2) http://pythonprogramming.net/
+3) http://www.codeproject.com/Articles/692896/Design-Patterns-I-Introduction
+4) https://sourcemaking.com/design_patterns
