@@ -15,6 +15,5 @@ Following classifiers/methods were used:
 3. Gaussian Naive Bayes
 4. Bernoulli Naive Bayes
 5. Support Vector Machine
-6. Ensemble method
-7. Semi-supervised
+
 
